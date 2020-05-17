@@ -1,0 +1,6 @@
+/.ipynb_checkpoints/
+
+/.idea/
+/SSD/data/coco/images/train2014/
+/SSD/data/coco/images/trainval35k/
+/SSD/data/coco/images/val2014/
